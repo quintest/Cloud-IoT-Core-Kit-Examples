@@ -125,10 +125,4 @@ Wire up the thermostat and led sensors and create an [end to end server and devi
 
 ---
 
-## Joystick End-to-end - analog to digital input/servo control example
-
-Connect a [joystick](https://github.com/ARM-software/Cloud-IoT-Core-Kit-Examples/tree/master/joystick) via 10-bit ADC and use the input to control a PWM servo, e.g. the way a rheostat or app might control multiple lights or a an HVAC controls multiple vents and fans.
-
----
-
 Find more [samples](https://cloud.google.com/iot/docs/samples/) and [documentation](https://cloud.google.com/iot/docs/) at the Google Cloud Platform IoT site.
